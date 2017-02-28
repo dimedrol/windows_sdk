@@ -11,6 +11,5 @@
         Warn,
         Error,
         Assert,
-        Suppress = int.MaxValue
     };
 }
