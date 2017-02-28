@@ -154,6 +154,7 @@ logLevel: LogLevel.Info     // the default
 logLevel: LogLevel.Warn     // disable info logging
 logLevel: LogLevel.Error    // disable warnings as well
 logLevel: LogLevel.Assert   // disable errors as well
+logLevel: LogLevel.Suppress // disable all logging
 ```
 
 #### Windows Phone 8.0
